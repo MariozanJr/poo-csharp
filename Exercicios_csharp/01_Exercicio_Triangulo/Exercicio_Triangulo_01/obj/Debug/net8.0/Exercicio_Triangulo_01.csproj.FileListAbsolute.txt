@@ -1,0 +1,14 @@
+C:\Users\mario\OneDrive\Área de Trabalho\program\Exercicio_Triangulo_01\Exercicio_Triangulo_01\bin\Debug\net8.0\Exercicio_Triangulo_01.exe
+C:\Users\mario\OneDrive\Área de Trabalho\program\Exercicio_Triangulo_01\Exercicio_Triangulo_01\bin\Debug\net8.0\Exercicio_Triangulo_01.deps.json
+C:\Users\mario\OneDrive\Área de Trabalho\program\Exercicio_Triangulo_01\Exercicio_Triangulo_01\bin\Debug\net8.0\Exercicio_Triangulo_01.runtimeconfig.json
+C:\Users\mario\OneDrive\Área de Trabalho\program\Exercicio_Triangulo_01\Exercicio_Triangulo_01\bin\Debug\net8.0\Exercicio_Triangulo_01.dll
+C:\Users\mario\OneDrive\Área de Trabalho\program\Exercicio_Triangulo_01\Exercicio_Triangulo_01\bin\Debug\net8.0\Exercicio_Triangulo_01.pdb
+C:\Users\mario\OneDrive\Área de Trabalho\program\Exercicio_Triangulo_01\Exercicio_Triangulo_01\obj\Debug\net8.0\Exercicio_Triangulo_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\OneDrive\Área de Trabalho\program\Exercicio_Triangulo_01\Exercicio_Triangulo_01\obj\Debug\net8.0\Exercicio_Triangulo_01.AssemblyInfoInputs.cache
+C:\Users\mario\OneDrive\Área de Trabalho\program\Exercicio_Triangulo_01\Exercicio_Triangulo_01\obj\Debug\net8.0\Exercicio_Triangulo_01.AssemblyInfo.cs
+C:\Users\mario\OneDrive\Área de Trabalho\program\Exercicio_Triangulo_01\Exercicio_Triangulo_01\obj\Debug\net8.0\Exercicio_Triangulo_01.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Área de Trabalho\program\Exercicio_Triangulo_01\Exercicio_Triangulo_01\obj\Debug\net8.0\Exercicio_Triangulo_01.dll
+C:\Users\mario\OneDrive\Área de Trabalho\program\Exercicio_Triangulo_01\Exercicio_Triangulo_01\obj\Debug\net8.0\refint\Exercicio_Triangulo_01.dll
+C:\Users\mario\OneDrive\Área de Trabalho\program\Exercicio_Triangulo_01\Exercicio_Triangulo_01\obj\Debug\net8.0\Exercicio_Triangulo_01.pdb
+C:\Users\mario\OneDrive\Área de Trabalho\program\Exercicio_Triangulo_01\Exercicio_Triangulo_01\obj\Debug\net8.0\Exercicio_Triangulo_01.genruntimeconfig.cache
+C:\Users\mario\OneDrive\Área de Trabalho\program\Exercicio_Triangulo_01\Exercicio_Triangulo_01\obj\Debug\net8.0\ref\Exercicio_Triangulo_01.dll

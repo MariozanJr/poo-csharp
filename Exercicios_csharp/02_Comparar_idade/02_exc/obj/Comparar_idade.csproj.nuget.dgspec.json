@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\poo-csharp\\Exercicios_csharp\\01_Exercicio_Triangulo\\Exercicio_Triangulo_01\\Exercicio_Triangulo_01.csproj": {}
+    "D:\\Git\\poo-csharp\\Exercicios_csharp\\02_Comparar_idade\\02_exc\\Comparar_idade.csproj": {}
   },
   "projects": {
-    "D:\\Git\\poo-csharp\\Exercicios_csharp\\01_Exercicio_Triangulo\\Exercicio_Triangulo_01\\Exercicio_Triangulo_01.csproj": {
+    "D:\\Git\\poo-csharp\\Exercicios_csharp\\02_Comparar_idade\\02_exc\\Comparar_idade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\poo-csharp\\Exercicios_csharp\\01_Exercicio_Triangulo\\Exercicio_Triangulo_01\\Exercicio_Triangulo_01.csproj",
-        "projectName": "Exercicio_Triangulo_01",
-        "projectPath": "D:\\Git\\poo-csharp\\Exercicios_csharp\\01_Exercicio_Triangulo\\Exercicio_Triangulo_01\\Exercicio_Triangulo_01.csproj",
+        "projectUniqueName": "D:\\Git\\poo-csharp\\Exercicios_csharp\\02_Comparar_idade\\02_exc\\Comparar_idade.csproj",
+        "projectName": "Comparar_idade",
+        "projectPath": "D:\\Git\\poo-csharp\\Exercicios_csharp\\02_Comparar_idade\\02_exc\\Comparar_idade.csproj",
         "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\poo-csharp\\Exercicios_csharp\\01_Exercicio_Triangulo\\Exercicio_Triangulo_01\\obj\\",
+        "outputPath": "D:\\Git\\poo-csharp\\Exercicios_csharp\\02_Comparar_idade\\02_exc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

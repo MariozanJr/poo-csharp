@@ -1,0 +1,14 @@
+C:\Users\mario\source\repos\02_exc\02_exc\obj\Debug\net8.0\Exc02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\source\repos\02_exc\02_exc\obj\Debug\net8.0\Exc02.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\02_exc\02_exc\obj\Debug\net8.0\Exc02.AssemblyInfo.cs
+C:\Users\mario\source\repos\02_exc\02_exc\obj\Debug\net8.0\Exc02.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\02_exc\02_exc\bin\Debug\net8.0\Exc02.exe
+C:\Users\mario\source\repos\02_exc\02_exc\bin\Debug\net8.0\Exc02.deps.json
+C:\Users\mario\source\repos\02_exc\02_exc\bin\Debug\net8.0\Exc02.runtimeconfig.json
+C:\Users\mario\source\repos\02_exc\02_exc\bin\Debug\net8.0\Exc02.dll
+C:\Users\mario\source\repos\02_exc\02_exc\bin\Debug\net8.0\Exc02.pdb
+C:\Users\mario\source\repos\02_exc\02_exc\obj\Debug\net8.0\Exc02.dll
+C:\Users\mario\source\repos\02_exc\02_exc\obj\Debug\net8.0\refint\Exc02.dll
+C:\Users\mario\source\repos\02_exc\02_exc\obj\Debug\net8.0\Exc02.pdb
+C:\Users\mario\source\repos\02_exc\02_exc\obj\Debug\net8.0\Exc02.genruntimeconfig.cache
+C:\Users\mario\source\repos\02_exc\02_exc\obj\Debug\net8.0\ref\Exc02.dll

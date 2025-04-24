@@ -1,0 +1,4 @@
+C:\Users\mario\source\repos\02_exc\02_exc\obj\Debug\net8.0\02_exc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\source\repos\02_exc\02_exc\obj\Debug\net8.0\02_exc.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\02_exc\02_exc\obj\Debug\net8.0\02_exc.AssemblyInfo.cs
+C:\Users\mario\source\repos\02_exc\02_exc\obj\Debug\net8.0\02_exc.csproj.CoreCompileInputs.cache

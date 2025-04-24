@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\poo-csharp\\Exercicios_csharp\\01_Exercicio_Triangulo\\Exercicio_Triangulo_01\\Exercicio_Triangulo_01.csproj": {}
+    "C:\\Users\\mario\\source\\repos\\02_exc\\02_exc\\Exc02.csproj": {}
   },
   "projects": {
-    "D:\\Git\\poo-csharp\\Exercicios_csharp\\01_Exercicio_Triangulo\\Exercicio_Triangulo_01\\Exercicio_Triangulo_01.csproj": {
+    "C:\\Users\\mario\\source\\repos\\02_exc\\02_exc\\Exc02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\poo-csharp\\Exercicios_csharp\\01_Exercicio_Triangulo\\Exercicio_Triangulo_01\\Exercicio_Triangulo_01.csproj",
-        "projectName": "Exercicio_Triangulo_01",
-        "projectPath": "D:\\Git\\poo-csharp\\Exercicios_csharp\\01_Exercicio_Triangulo\\Exercicio_Triangulo_01\\Exercicio_Triangulo_01.csproj",
+        "projectUniqueName": "C:\\Users\\mario\\source\\repos\\02_exc\\02_exc\\Exc02.csproj",
+        "projectName": "Exc02",
+        "projectPath": "C:\\Users\\mario\\source\\repos\\02_exc\\02_exc\\Exc02.csproj",
         "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\poo-csharp\\Exercicios_csharp\\01_Exercicio_Triangulo\\Exercicio_Triangulo_01\\obj\\",
+        "outputPath": "C:\\Users\\mario\\source\\repos\\02_exc\\02_exc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

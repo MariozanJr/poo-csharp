@@ -8,7 +8,7 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mario\\.nuget\\packages\\": {},
+    "C:\\Users\\Mariozan Jr\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -17,14 +17,14 @@
       "projectUniqueName": "D:\\Git\\poo-csharp\\Exercicios_csharp\\01_Exercicio_Triangulo\\Exercicio_Triangulo_01\\Exercicio_Triangulo_01.csproj",
       "projectName": "Exercicio_Triangulo_01",
       "projectPath": "D:\\Git\\poo-csharp\\Exercicios_csharp\\01_Exercicio_Triangulo\\Exercicio_Triangulo_01\\Exercicio_Triangulo_01.csproj",
-      "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Mariozan Jr\\.nuget\\packages\\",
       "outputPath": "D:\\Git\\poo-csharp\\Exercicios_csharp\\01_Exercicio_Triangulo\\Exercicio_Triangulo_01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\mario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mariozan Jr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

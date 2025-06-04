@@ -1,0 +1,15 @@
+D:\Git\poo-csharp\Exercicios_csharp\03_Funcionario_Media\bin\Debug\net8.0\03_Funcionario_Media.exe
+D:\Git\poo-csharp\Exercicios_csharp\03_Funcionario_Media\bin\Debug\net8.0\03_Funcionario_Media.deps.json
+D:\Git\poo-csharp\Exercicios_csharp\03_Funcionario_Media\bin\Debug\net8.0\03_Funcionario_Media.runtimeconfig.json
+D:\Git\poo-csharp\Exercicios_csharp\03_Funcionario_Media\bin\Debug\net8.0\03_Funcionario_Media.dll
+D:\Git\poo-csharp\Exercicios_csharp\03_Funcionario_Media\bin\Debug\net8.0\03_Funcionario_Media.pdb
+D:\Git\poo-csharp\Exercicios_csharp\03_Funcionario_Media\obj\Debug\net8.0\03_Funcionario_Media.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\poo-csharp\Exercicios_csharp\03_Funcionario_Media\obj\Debug\net8.0\03_Funcionario_Media.AssemblyInfoInputs.cache
+D:\Git\poo-csharp\Exercicios_csharp\03_Funcionario_Media\obj\Debug\net8.0\03_Funcionario_Media.AssemblyInfo.cs
+D:\Git\poo-csharp\Exercicios_csharp\03_Funcionario_Media\obj\Debug\net8.0\03_Funcionario_Media.csproj.CoreCompileInputs.cache
+D:\Git\poo-csharp\Exercicios_csharp\03_Funcionario_Media\obj\Debug\net8.0\03_Funcionario_Media.sourcelink.json
+D:\Git\poo-csharp\Exercicios_csharp\03_Funcionario_Media\obj\Debug\net8.0\03_Funcionario_Media.dll
+D:\Git\poo-csharp\Exercicios_csharp\03_Funcionario_Media\obj\Debug\net8.0\refint\03_Funcionario_Media.dll
+D:\Git\poo-csharp\Exercicios_csharp\03_Funcionario_Media\obj\Debug\net8.0\03_Funcionario_Media.pdb
+D:\Git\poo-csharp\Exercicios_csharp\03_Funcionario_Media\obj\Debug\net8.0\03_Funcionario_Media.genruntimeconfig.cache
+D:\Git\poo-csharp\Exercicios_csharp\03_Funcionario_Media\obj\Debug\net8.0\ref\03_Funcionario_Media.dll

@@ -12,3 +12,18 @@ C:\Users\mario\OneDrive\Área de Trabalho\program\Exercicio_Triangulo_01\Exercic
 C:\Users\mario\OneDrive\Área de Trabalho\program\Exercicio_Triangulo_01\Exercicio_Triangulo_01\obj\Debug\net8.0\Exercicio_Triangulo_01.pdb
 C:\Users\mario\OneDrive\Área de Trabalho\program\Exercicio_Triangulo_01\Exercicio_Triangulo_01\obj\Debug\net8.0\Exercicio_Triangulo_01.genruntimeconfig.cache
 C:\Users\mario\OneDrive\Área de Trabalho\program\Exercicio_Triangulo_01\Exercicio_Triangulo_01\obj\Debug\net8.0\ref\Exercicio_Triangulo_01.dll
+D:\Git\poo-csharp\Exercicios_csharp\01_Exercicio_Triangulo\Exercicio_Triangulo_01\bin\Debug\net8.0\Exercicio_Triangulo_01.exe
+D:\Git\poo-csharp\Exercicios_csharp\01_Exercicio_Triangulo\Exercicio_Triangulo_01\bin\Debug\net8.0\Exercicio_Triangulo_01.deps.json
+D:\Git\poo-csharp\Exercicios_csharp\01_Exercicio_Triangulo\Exercicio_Triangulo_01\bin\Debug\net8.0\Exercicio_Triangulo_01.runtimeconfig.json
+D:\Git\poo-csharp\Exercicios_csharp\01_Exercicio_Triangulo\Exercicio_Triangulo_01\bin\Debug\net8.0\Exercicio_Triangulo_01.dll
+D:\Git\poo-csharp\Exercicios_csharp\01_Exercicio_Triangulo\Exercicio_Triangulo_01\bin\Debug\net8.0\Exercicio_Triangulo_01.pdb
+D:\Git\poo-csharp\Exercicios_csharp\01_Exercicio_Triangulo\Exercicio_Triangulo_01\obj\Debug\net8.0\Exercicio_Triangulo_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\poo-csharp\Exercicios_csharp\01_Exercicio_Triangulo\Exercicio_Triangulo_01\obj\Debug\net8.0\Exercicio_Triangulo_01.AssemblyInfoInputs.cache
+D:\Git\poo-csharp\Exercicios_csharp\01_Exercicio_Triangulo\Exercicio_Triangulo_01\obj\Debug\net8.0\Exercicio_Triangulo_01.AssemblyInfo.cs
+D:\Git\poo-csharp\Exercicios_csharp\01_Exercicio_Triangulo\Exercicio_Triangulo_01\obj\Debug\net8.0\Exercicio_Triangulo_01.csproj.CoreCompileInputs.cache
+D:\Git\poo-csharp\Exercicios_csharp\01_Exercicio_Triangulo\Exercicio_Triangulo_01\obj\Debug\net8.0\Exercicio_Triangulo_01.sourcelink.json
+D:\Git\poo-csharp\Exercicios_csharp\01_Exercicio_Triangulo\Exercicio_Triangulo_01\obj\Debug\net8.0\Exercicio_Triangulo_01.dll
+D:\Git\poo-csharp\Exercicios_csharp\01_Exercicio_Triangulo\Exercicio_Triangulo_01\obj\Debug\net8.0\refint\Exercicio_Triangulo_01.dll
+D:\Git\poo-csharp\Exercicios_csharp\01_Exercicio_Triangulo\Exercicio_Triangulo_01\obj\Debug\net8.0\Exercicio_Triangulo_01.pdb
+D:\Git\poo-csharp\Exercicios_csharp\01_Exercicio_Triangulo\Exercicio_Triangulo_01\obj\Debug\net8.0\Exercicio_Triangulo_01.genruntimeconfig.cache
+D:\Git\poo-csharp\Exercicios_csharp\01_Exercicio_Triangulo\Exercicio_Triangulo_01\obj\Debug\net8.0\ref\Exercicio_Triangulo_01.dll

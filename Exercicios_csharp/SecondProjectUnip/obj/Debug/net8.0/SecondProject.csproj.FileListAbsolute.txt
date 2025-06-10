@@ -1,0 +1,15 @@
+D:\Git\poo-csharp\Exercicios_csharp\SecondProject\obj\Debug\net8.0\SecondProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\poo-csharp\Exercicios_csharp\SecondProject\obj\Debug\net8.0\SecondProject.AssemblyInfoInputs.cache
+D:\Git\poo-csharp\Exercicios_csharp\SecondProject\obj\Debug\net8.0\SecondProject.AssemblyInfo.cs
+D:\Git\poo-csharp\Exercicios_csharp\SecondProject\obj\Debug\net8.0\SecondProject.csproj.CoreCompileInputs.cache
+D:\Git\poo-csharp\Exercicios_csharp\SecondProject\obj\Debug\net8.0\SecondProject.sourcelink.json
+D:\Git\poo-csharp\Exercicios_csharp\SecondProject\bin\Debug\net8.0\SecondProject.exe
+D:\Git\poo-csharp\Exercicios_csharp\SecondProject\bin\Debug\net8.0\SecondProject.deps.json
+D:\Git\poo-csharp\Exercicios_csharp\SecondProject\bin\Debug\net8.0\SecondProject.runtimeconfig.json
+D:\Git\poo-csharp\Exercicios_csharp\SecondProject\bin\Debug\net8.0\SecondProject.dll
+D:\Git\poo-csharp\Exercicios_csharp\SecondProject\bin\Debug\net8.0\SecondProject.pdb
+D:\Git\poo-csharp\Exercicios_csharp\SecondProject\obj\Debug\net8.0\SecondProject.dll
+D:\Git\poo-csharp\Exercicios_csharp\SecondProject\obj\Debug\net8.0\refint\SecondProject.dll
+D:\Git\poo-csharp\Exercicios_csharp\SecondProject\obj\Debug\net8.0\SecondProject.pdb
+D:\Git\poo-csharp\Exercicios_csharp\SecondProject\obj\Debug\net8.0\SecondProject.genruntimeconfig.cache
+D:\Git\poo-csharp\Exercicios_csharp\SecondProject\obj\Debug\net8.0\ref\SecondProject.dll
